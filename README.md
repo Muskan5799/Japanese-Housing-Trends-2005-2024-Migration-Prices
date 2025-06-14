@@ -1,45 +1,86 @@
-# 🇯🇵 Japan Migration & Real Estate Analysis
+# 🏡 Japanese Housing Trends (2005–2024) | Migration & Prices
 
-This project analyzes migration trends and real estate transactions across Japanese prefectures. Using data visualization and correlation analysis, it explores demographic shifts and urbanization patterns post-2020.
+This project analyzes 20 years of housing transactions and migration trends across Japan's 47 prefectures. Using Python and visual analytics, it explores how population shifts and urbanization have shaped the real estate market—especially in the post-2020 landscape.
 
 ---
 
 ## 📊 Project Overview
 
-- **Objective**: Identify migration trends and transaction patterns by region and year.
-- **Data**: Real estate and migration datasets from Japanese prefectural sources.
-- **Tools**: Python, Pandas, Seaborn, Matplotlib, Jupyter Notebook.
+- **🎯 Objective**: Understand regional housing and migration dynamics across time.
+- **📅 Scope**: Data from 2005 to 2024.
+- **🛠️ Tools Used**:  
+  Python, Pandas, NumPy, Seaborn, Matplotlib, Jupyter Notebook
+
+---
+
+## 🗂️ Datasets
+
+- **All_prefectures_buildings.csv**  
+  Real estate transaction records: price, area, usage type, structure, year, and prefecture.
+
+- **All_prefectures_migration.csv**  
+  Annual inter-prefecture migration data: number of residents moving in/out.
+
+---
+
+## 🧹 Data Preparation
+
+- Cleaned null values, outliers, and duplicates
+- Converted dates to datetime format
+- Standardized column names
+- Merged datasets by prefecture and year for combined analysis
 
 ---
 
 ## 📌 Key Features
 
-- Migration heatmap by prefecture and year
-- Correlation heatmap of key features
-- Area vs. transaction value scatter analysis
-- Cleaned and de-duplicated dataset
+- 🗺️ **Migration Heatmap**  
+  Yearly migration trends across all prefectures
+
+- 📈 **Correlation Heatmap**  
+  Feature-to-feature relationship insights (e.g., area vs. price)
+
+- 🔍 **Area vs. Price Scatter Analysis**  
+  Distribution of property size vs. transaction value
+
+- ✅ **Cleaned Dataset for Reuse**  
+  Ideal for future forecasting or modeling
 
 ---
 
-## 📝 Key Insights
+## 🖼️ Sample Visualizations
 
-- Tokyo shows the highest volume of transactions and migration inflows.
-- Urban migration trends intensified after 2020.
-- Rural prefectures exhibit declining migration, indicating urban centralization.
+*(Add these if you upload chart images to your repo)*
+
+![Migration Heatmap](images/migration_heatmap.png)
+![Scatter Plot](images/area_vs_value.png)
+![Correlation Heatmap](images/correlation_heatmap.png)
 
 ---
 
-## 🧠 Conclusion & Future Work
+## 🧠 Key Insights
 
-This analysis offers a foundation for studying regional demographics and urban planning. Future directions include:
-- Predictive modeling of migration flows
-- Integration with socioeconomic data (income, employment, etc.)
-- Policy simulation for rural revitalization
+- **Tokyo** leads in both transaction volume and migration inflows, showing continued urban attraction.
+- Post-2020 data reveals intensified **urban migration**, likely tied to remote work and lifestyle shifts.
+- Several **rural prefectures** (e.g., Akita, Shimane) face declining population through negative migration balances.
+- Area and transaction value show a weak but notable correlation, with region-specific variations.
+
+---
+
+## 🔮 Future Directions
+
+- Time-series modeling of migration and transaction trends
+- Integration with socioeconomic indicators: employment, income, and aging demographics
+- Scenario simulations: how would remote work or tax incentives affect migration?
 
 ---
 
 ## 🚀 Getting Started
 
+Clone the repo and open the notebook:
+
 ```bash
-git clone https://github.com/yourusername/japan-migration-analysis.git
-cd japan-migration-analysis
+git clone https://github.com/yourusername/Japanese-Housing-Trends-2005-2024-Migration-Prices.git
+cd Japanese-Housing-Trends-2005-2024-Migration-Prices
+jupyter notebook
+
