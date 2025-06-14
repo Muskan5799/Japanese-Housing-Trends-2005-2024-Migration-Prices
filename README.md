@@ -73,14 +73,5 @@ This project analyzes 20 years of housing transactions and migration trends acro
 - Integration with socioeconomic indicators: employment, income, and aging demographics
 - Scenario simulations: how would remote work or tax incentives affect migration?
 
----
 
-## 🚀 Getting Started
-
-Clone the repo and open the notebook:
-
-```bash
-git clone https://github.com/yourusername/Japanese-Housing-Trends-2005-2024-Migration-Prices.git
-cd Japanese-Housing-Trends-2005-2024-Migration-Prices
-jupyter notebook
 
