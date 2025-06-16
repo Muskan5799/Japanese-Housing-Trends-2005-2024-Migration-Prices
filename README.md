@@ -1,8 +1,7 @@
 # 🏡 Japanese Housing Trends (2005–2024) | Migration & Prices
 
 This project analyzes 20 years of housing transactions and migration trends across Japan's 47 prefectures. Using Python and visual analytics, it explores how population shifts and urbanization have shaped the real estate market—especially in the post-2020 landscape.
-![Japaness Housing Price ](https://github.com/user-attachments/assets/3f20c247-0a52-44f8-913a-02f2839375fd)
-
+![Japaness Housing Price ](https://github.com/user-attachments/assets/01d564a6-3aac-439b-9f7b-c09dd847ff54)
 ---
 
 ## 📊 Project Overview
