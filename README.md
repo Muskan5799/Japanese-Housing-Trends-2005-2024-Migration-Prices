@@ -52,9 +52,11 @@ This project analyzes 20 years of housing transactions and migration trends acro
 
 *(Add these if you upload chart images to your repo)*
 
-![Migration Heatmap](images/migration_heatmap.png)
-![Scatter Plot](images/area_vs_value.png)
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Migration Trend Over Time ](https://github.com/user-attachments/assets/c90643bb-12fe-41f3-b457-7b18e29ed562)
+
+![Area vs  Transaction Value](https://github.com/user-attachments/assets/3bd12fe5-95f6-4115-8c0f-68a134d02e81)
+
+![Yearly Migration by Prefecture](https://github.com/user-attachments/assets/9074f9f3-3186-4814-87c7-5d10fff00f9b)
 
 ---
 
