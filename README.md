@@ -50,8 +50,6 @@ This project analyzes 20 years of housing transactions and migration trends acro
 
 ## 🖼️ Sample Visualizations
 
-*(Add these if you upload chart images to your repo)*
-
 ![Migration Trend Over Time ](https://github.com/user-attachments/assets/c90643bb-12fe-41f3-b457-7b18e29ed562)
 
 ![Area vs  Transaction Value](https://github.com/user-attachments/assets/3bd12fe5-95f6-4115-8c0f-68a134d02e81)
