@@ -6,6 +6,7 @@ This project analyzes 20 years of housing transactions and migration trends acro
 
 ---
 ## Project Link
+https://www.kaggle.com/code/muskanchinchkhede/japanese-housing-prices-2005-2024
 
 ## 📊 Project Overview
 
