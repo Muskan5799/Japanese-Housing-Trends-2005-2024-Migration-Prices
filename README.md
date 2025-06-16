@@ -56,7 +56,7 @@ This project analyzes 20 years of housing transactions and migration trends acro
 
 ![Area vs  Transaction Value](https://github.com/user-attachments/assets/3bd12fe5-95f6-4115-8c0f-68a134d02e81)
 
-![Yearly Migration by Prefecture](https://github.com/user-attachments/assets/9074f9f3-3186-4814-87c7-5d10fff00f9b)
+![Yearly Migration by Prefecture](https://github.com/user-attachments/assets/7b570ca5-0048-46c8-8c92-5cda3ae5e89f)
 
 ---
 
